@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='factorymethod'/>
+        <page name='simplefactory'/>
+        <page name='abstractfactory'/>
+        <page name='singleton'/>
+        <page name='prototype'/>
+        <page name='builder'/>
+        <page name='Adapter'/>
+        <page name='bridge'/>
+        <page name='decorator'/>
+        <page name='facade'/>
+        <page name='flyweight'/>
+        <page name='proxy'/>
+        <page name='composite'/>
+        <page name='templatemethod'/>
+        <page name='chainofresponsebility'/>
+    </pages>
+</playground>
